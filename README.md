@@ -3,83 +3,102 @@
 💼 Engineering Manager | Solution Architect  
 📍 Pune, India  
 📧 manoj.cse2007@gmail.com  
-🔗 https://linkedin.com/in/manojcse2007
+🔗 https://linkedin.com/in/manojcse2007  
 
 ---
 
 ## 🚀 About Me
 
-I am an Engineering Manager and Solution Architect with **17+ years of experience** in building scalable, high-availability enterprise systems.
+I am an Engineering Manager and Solution Architect with **17+ years of experience** designing and delivering **scalable, high-availability enterprise systems**.
 
-I specialize in:
-- Designing **event-driven architectures**
-- Migrating **monolithic systems to microservices**
-- Building **cloud-native applications**
-- Leading **high-performing Agile teams**
+I specialize in building **event-driven, cloud-native architectures** and leading teams to transform legacy systems into modern microservices platforms.
 
-I focus on delivering systems that are:
-✅ Scalable  
-✅ Performant  
-✅ Cost-efficient  
+---
+
+## 🏗️ Architecture Focus
+
+I design systems with:
+
+- ✅ Event-driven architecture using Kafka  
+- ✅ Microservices with high scalability  
+- ✅ Distributed system design  
+- ✅ CQRS & Saga patterns  
+- ✅ Fault-tolerant and resilient systems  
+
+---
+
+## 📈 Impact & Achievements
+
+- 🚀 Improved system performance by **30%**
+- ⚡ Reduced deployment time by **20% using CI/CD automation**
+- 🔄 Built real-time processing systems using **Kafka & RabbitMQ**
+- 👥 Led Agile teams of **10–15 engineers**
 
 ---
 
 ## 🧠 Technical Expertise
 
 ### ☁️ Cloud & Architecture
-- Azure (Working Knowledge)
+- Azure
 - Microservices Architecture
-- Event-Driven Systems
-- CQRS & Saga Patterns
 - Distributed Systems
+- Event-Driven Systems
 
-### 💻 Backend Development
+### 💻 Backend
 - .NET / .NET Core
 - C#
 - ASP.NET Core
-- Web API
-- Entity Framework
+- Web APIs
 
 ### 📡 Messaging & Data
 - Apache Kafka
 - RabbitMQ
 - MongoDB
-- Redis Cache
+- Redis
 - SQL Server
 
 ### ⚙️ DevOps & Tools
 - Azure DevOps
-- CI/CD Pipelines
+- CI/CD
 - Git
-- Agile Methodologies
-
----
-
-## 🚀 Key Achievements
-
-- ✅ Improved system performance by **30%** by designing cloud-native microservices architecture [1](https://hbfuller-my.sharepoint.com/personal/manoj_patel_hbfuller_com/Documents/Microsoft%20Copilot%20Chat%20Files/Manoj_Patel_Resume.pdf)  
-- ✅ Built event-driven platforms using Kafka, enabling **real-time data processing** [1](https://hbfuller-my.sharepoint.com/personal/manoj_patel_hbfuller_com/Documents/Microsoft%20Copilot%20Chat%20Files/Manoj_Patel_Resume.pdf)  
-- ✅ Reduced deployment cycles and improved delivery velocity by **20% using CI/CD automation** [1](https://hbfuller-my.sharepoint.com/personal/manoj_patel_hbfuller_com/Documents/Microsoft%20Copilot%20Chat%20Files/Manoj_Patel_Resume.pdf)  
-- ✅ Led cross-functional Agile teams of **10–15 engineers** [1](https://hbfuller-my.sharepoint.com/personal/manoj_patel_hbfuller_com/Documents/Microsoft%20Copilot%20Chat%20Files/Manoj_Patel_Resume.pdf)  
+- Agile
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🔹 Kafka with MongoDB
-Event-driven system using Kafka for real-time message processing and MongoDB for storage.
+Event-driven system for real-time data processing.
 
-### 🔹 MongoDB Experiments
-Hands-on projects exploring MongoDB data modeling and querying techniques.
+**Highlights:**
+- Kafka Producer & Consumer architecture
+- MongoDB integration
+- Scalable event pipeline
 
 ---
 
-## 🎯 What I’m Focused On
+### 🔹 MongoDB Experiments
+Hands-on exploration of data modeling and performance tuning.
+
+---
+
+## 🔄 System Design Thinking
+
+I focus on solving problems using:
+
+- Decoupled services via message queues
+- Real-time event processing
+- Scalable and resilient system design
+- Clean architecture & maintainability
+
+---
+
+## 🎯 Current Focus
 
 - Advanced Event-Driven Architectures  
 - Microservices Optimization  
 - Cloud Transformation (Azure)  
-- Real-time Data Processing  
+- Real-time Data Systems  
 
 ---
 
@@ -92,4 +111,4 @@ Hands-on projects exploring MongoDB data modeling and querying techniques.
 
 ## ⚡ Fun Fact
 
-I enjoy solving complex architecture problems and transforming legacy systems into modern, scalable platforms 🚀
+I enjoy transforming complex monolithic systems into scalable, modern architectures 🚀
